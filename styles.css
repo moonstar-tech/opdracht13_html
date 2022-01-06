@@ -1,0 +1,59 @@
+.box {
+    float: left;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 15px;
+    border: 2px solid rgb(226, 226, 241);
+    font-family: sans-serif;
+    font-size:20px;
+    box-shadow: rgb(194, 193, 193) 2px 2px;
+    border-radius: 5px;
+    
+}
+h1 {
+    font-family: sans-serif;
+    font-size:30px;
+}
+p {
+    font-size:20px;
+    color: grey;
+
+}
+
+.img {
+    position:relative;
+    float:right;
+    right:10px;
+    top:-60px;
+}
+
+
+.button {
+    background: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    width:185px;
+  }
+.button {
+    border-style: solid;
+    border-color: green;
+    color:green
+    
+}
+.button2 {
+   
+    border-style: solid;
+    border-color: red;
+    color: red;
+    margin-left: -15px;
+   
+}
+
